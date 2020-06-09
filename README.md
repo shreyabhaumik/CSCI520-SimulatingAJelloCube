@@ -101,4 +101,4 @@ By PRESSING 'w' on the keyboard, we can TOGGLE BETWEEN RED-skybox-with-BLUE-text
 ![Springs](sample-images/springs.png)  
 ![Wiggliness](sample-images/wiggly.png)  
 ![UntexturedPlane](sample-images/untextured.png)  
-[![https://www.youtube.com/watch?v=LxrpjBN7Rh4](https://www.youtube.com/watch?v=LxrpjBN7Rh4)](https://www.youtube.com/watch?v=LxrpjBN7Rh4)
+[![https://www.youtube.com/watch?v=6tzOovB9RX0](https://www.youtube.com/watch?v=6tzOovB9RX0)](https://www.youtube.com/watch?v=6tzOovB9RX0)
